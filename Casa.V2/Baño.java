@@ -9,7 +9,7 @@ int a;
 int b;
 int c;
 int d;
-
+qwef
 
 }
 public void agregar(int cama){
@@ -19,5 +19,4 @@ int e;
 int c;
 int d;
 
-}
-}
+fqwasdv
